@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="14in"
+   height="8.5in"
+   viewBox="0 0 355.60001 215.9"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="CODE LIBRARY.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1298.6429"
+     inkscape:cy="564.93646"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="699"
+     inkscape:window-height="388"
+     inkscape:window-x="2139"
+     inkscape:window-y="375"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-81.1)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot815"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Dosis;-inkscape-font-specification:Dosis;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,17.6)"><flowRegion
+         id="flowRegion817"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis"><rect
+           id="rect819"
+           width="1151.5739"
+           height="282.84271"
+           x="44.446712"
+           y="29.685015"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:Dosis" /></flowRegion><flowPara
+         id="flowPara821"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.7741137"
+       y="121.13395"
+       id="text825"><tspan
+         sodipodi:role="line"
+         id="tspan823"
+         x="6.7741137"
+         y="121.13395"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332">pinMode ( <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#ff0000;fill-opacity:1"
+   id="tspan833"
+   rotate="0 0 0 0 0">pin#</tspan> , <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#ff0000;fill-opacity:1"
+   id="tspan837">INPUT/OUTPUT</tspan> ); </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="86.398933"
+       y="173.62271"
+       id="text825-3"><tspan
+         sodipodi:role="line"
+         id="tspan823-9"
+         x="86.398933"
+         y="173.62271"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332">int  <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#fe0000;fill-opacity:1"
+   id="tspan883">name</tspan> = <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#ff0000;fill-opacity:1"
+   id="tspan893"> value </tspan>; </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="11.814816"
+       y="223.24127"
+       id="text825-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan823-9-8"
+         x="11.814816"
+         y="223.24127"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332">digitalWrite ( <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#ff0000;fill-opacity:1"
+   id="tspan925">pin#</tspan> , <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#ff0000;fill-opacity:1"
+   id="tspan937">HIGH/LOW </tspan>); </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="79.407585"
+       y="274.26953"
+       id="text825-3-3-1"><tspan
+         sodipodi:role="line"
+         id="tspan823-9-8-7"
+         x="79.407585"
+         y="274.26953"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332">digitalRead( <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+   id="tspan925-3">pin# </tspan>); </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-297.42126"
+       y="290.96115"
+       id="text825-3-3-1-6"><tspan
+         sodipodi:role="line"
+         id="tspan823-9-8-7-7"
+         x="-297.42126"
+         y="290.96115"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332">delay( <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#ff0000;fill-opacity:1"
+   id="tspan1000">milliseconds</tspan> ); </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-251.20605"
+       y="90.713577"
+       id="text825-3-3-1-6-9"><tspan
+         sodipodi:role="line"
+         x="-251.20605"
+         y="90.713577"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332"
+         id="tspan1037">if( <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+   id="tspan1000-4">condition </tspan>) </tspan><tspan
+         sodipodi:role="line"
+         x="-251.20605"
+         y="122.46358"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332"
+         id="tspan1087">{<tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#ff0000;fill-opacity:1"
+   id="tspan1053">Action</tspan>}</tspan><tspan
+         sodipodi:role="line"
+         x="-251.20605"
+         y="154.21358"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332"
+         id="tspan1051">else</tspan><tspan
+         sodipodi:role="line"
+         x="-251.20605"
+         y="185.96358"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332"
+         id="tspan1090">{<tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#ff0000;fill-opacity:1"
+   id="tspan1055">Action</tspan>}</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1039"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,17.6)"><flowRegion
+         id="flowRegion1041"><rect
+           id="rect1043"
+           width="61.619305"
+           height="75.761444"
+           x="34.345188"
+           y="901.44666" /></flowRegion><flowPara
+         id="flowPara1045"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-141.39944"
+       y="443.01193"
+       id="text825-3-3-1-6-9-2"><tspan
+         sodipodi:role="line"
+         x="-141.39944"
+         y="443.01193"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332"
+         id="tspan1037-1">for( <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+   id="tspan1000-4-6"> counter start ; stop ; increments</tspan>) </tspan><tspan
+         sodipodi:role="line"
+         x="-141.39944"
+         y="474.76193"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332"
+         id="tspan1087-4">{<tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+   id="tspan1053-0">Action</tspan>}</tspan><tspan
+         sodipodi:role="line"
+         x="-141.39944"
+         y="492.35492"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332"
+         id="tspan1090-6" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-16.818487"
+       y="0.33888483"
+       id="text825-3-3-1-6-9-2-7"><tspan
+         sodipodi:role="line"
+         x="-16.818487"
+         y="0.33888483"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332"
+         id="tspan1037-1-7">Particle.subscribe( &quot; <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#ff0000;fill-opacity:1"
+   id="tspan1188">Event Name</tspan> &quot;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+   id="tspan1000-4-6-3"> , handler function name </tspan>) </tspan><tspan
+         sodipodi:role="line"
+         x="-16.818487"
+         y="17.931881"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332"
+         id="tspan1087-4-6" /><tspan
+         sodipodi:role="line"
+         x="-16.818487"
+         y="31.161047"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332"
+         id="tspan1090-6-8" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-247.2984"
+       y="376.41672"
+       id="text825-3-3-1-6-9-2-7-9"><tspan
+         sodipodi:role="line"
+         x="-247.2984"
+         y="376.41672"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332"
+         id="tspan1037-1-7-3">tone( <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+   id="tspan1000-4-6-3-6"> pin# , note # , note duration </tspan>) </tspan><tspan
+         sodipodi:role="line"
+         x="-247.2984"
+         y="394.00974"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332"
+         id="tspan1087-4-6-0" /><tspan
+         sodipodi:role="line"
+         x="-247.2984"
+         y="407.23889"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332"
+         id="tspan1090-6-8-2" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-5.8809843"
+       y="36.215618"
+       id="text825-3-3-1-6-9-2-7-6"><tspan
+         sodipodi:role="line"
+         x="-5.8809843"
+         y="36.215618"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332"
+         id="tspan1037-1-7-30">Particle.publish( &quot; <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+   id="tspan1188-5">Event Name</tspan> &quot;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Dosis;-inkscape-font-specification:'Dosis Medium';fill:#ff0000;fill-opacity:1;stroke-width:0.26458332"
+   id="tspan1000-4-6-3-0"> </tspan>) </tspan><tspan
+         sodipodi:role="line"
+         x="-5.8809843"
+         y="53.808613"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332"
+         id="tspan1087-4-6-8" /><tspan
+         sodipodi:role="line"
+         x="-5.8809843"
+         y="67.037781"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:25.39999962px;font-family:Dosis;-inkscape-font-specification:'Dosis Ultra-Bold';stroke-width:0.26458332"
+         id="tspan1090-6-8-1" /></text>
+  </g>
+</svg>
